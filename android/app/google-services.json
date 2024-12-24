@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086442887985",
+    "project_id": "pcsdb-e5b7f",
+    "storage_bucket": "pcsdb-e5b7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086442887985:android:931c7c7bc25880c6616e10",
+        "android_client_info": {
+          "package_name": "com.example.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACXBTwbzTar7IyaCq1QILeIoQ9E12IB2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
